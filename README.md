@@ -8,7 +8,6 @@ Open source interface for Guild.xyz -- a tool for platformless membership manage
 - Discord: [Guild.xyz](https://discord.gg/guildxyz)
 
 ## Key dependencies overview
-
 - Framework
   - React with Next.js
 - Styling:
